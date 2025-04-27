@@ -1,5 +1,7 @@
-# Welcome 
-
+# ⚠️ Warning 
+<pre style="background-color: #2c3e50; color: #ecf0f1; padding: 10px; border-radius: 5px;">
+ Not complete code 
+      </pre>
 <div style="text-align: center; padding: 20px; background-color: #f0f4f8; border-radius: 10px;">
   <h1 style="color: #2c3e50;">Telegram Logo Bot</h1>
   <p style="font-size: 18px; color: #34495e;">
@@ -55,7 +57,7 @@
   <ol style="margin-left: 20px;">
     <li><strong>Clone the Repository:</strong>
       <pre style="background-color: #2c3e50; color: #ecf0f1; padding: 10px; border-radius: 5px;">
-git clone https://github.com/yourusername/telegram-logo-bot.git
+git clone https://github.com/SeyhaLite/Telegram-Logo-Maker-Bot-Python-Free.git
 cd telegram-logo-bot
       </pre>
     </li>
