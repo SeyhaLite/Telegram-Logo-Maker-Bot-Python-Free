@@ -5,7 +5,7 @@
   <p style="font-size: 18px; color: #34495e;">
     A Telegram bot that creates custom logo images by adding text to HD backgrounds with various styles. Supports multiple languages, including Khmer, with customizable fonts.
   </p>
-  <img src="https://via.placeholder.com/400x200.png?text=Logo+Bot+Preview" alt="Bot Preview" style="border-radius: 8px; margin: 10px;" />
+  <img src="https://github.com/SeyhaLite/Telegram-Logo-Maker-Bot-Python-Free/blob/main/IMG/Screenshot_2025_0427_085022.png" alt="Bot Preview" style="border-radius: 8px; margin: 10px;" />
 </div>
 
 ## Features
