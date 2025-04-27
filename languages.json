@@ -1,0 +1,89 @@
+{
+  "en": {
+    "welcome": "Hello! Thank you for using Logo Bot 🌟\nTo get started:\n1. Upload a font file (.ttf) to set it.\n2. Send text to add to a random image with a selected style.\n3. Use /style [number] or /style [name] to choose a style (e.g., /style 1 or /style Elegant Gold).\n   - List styles with /styles.\n4. Use /setfont to change the font.\n5. Use /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] to select language.\n6. Use /randomstyle to revert to random style.\n7. View tutorial with /tutorial.",
+    "font_success": "Font loaded successfully! Send text to use it 📝",
+    "font_error": "Error setting font. Please try again 😔",
+    "font_invalid": "Please upload a valid .ttf font file 📂",
+    "style_invalid": "Invalid style number 😕",
+    "style_not_found": "Style name not found. Use /styles to see available styles 🔍",
+    "style_set": "Style set to: {style_name} 🎨",
+    "style_input_invalid": "Invalid input. Use a number or style name 🚫",
+    "style_reset": "Style reset to random 🎲",
+    "style_reset_failed": "Failed to reset style 😞",
+    "language_invalid": "Please use /language en, kh, th, vi, pt, zh, ja, hi, ar, ko, or es 🌐",
+    "language_set": "Language set to {language} 🗣️",
+    "tutorial": "Tutorial 📚:\n1. Upload a font file (.ttf) to use.\n2. Send text to create an image.\n3. Use /style to select a style.\n4. Use /language to switch language.\n5. Use /randomstyle to revert to random style.\n6. View style list with /styles.",
+    "no_font": "Please upload a font first using /setfont 📜",
+    "image_failed": "Failed to process an image after multiple attempts 😢",
+    "broadcast_unauthorized": "You are not authorized to use this command 🚫",
+    "broadcast_no_message": "Please provide a message to broadcast (e.g., /broadcast Hello everyone!) 📢",
+    "broadcast_success": "Broadcast sent successfully 🎉",
+    "caption": "Created by Bot {bot_username} 🤖"
+  },
+  "kh": {
+    "welcome": "សួស្តី! សូមស្វាគមន៍មកកាន់ Logo Bot 🌟\nដើម្បីចាប់ផ្តើម:\n1. ផ្ទុកឯកសារពុម្ពអក្សរ (.ttf) ដើម្បីប្រើ។\n2. ផ្ញើអត្ថបទដើម្បីបន្ថែមលើរូបភាពជាមួយរចនាប័ទ្មជ្រើសរើស។\n3. ប្រើ /style [លេខ] ឬ /style [ឈ្មោះ] ដើម្បីជ្រើសរើសរចនាប័ទ្ម (ឧ. /style 1 ឬ /style Elegant Gold)។\n   - មើលបញ្ជីរចនាប័ទ្មជាមួយ /styles។\n4. ប្រើ /setfont ដើម្បីផ្លាស់ប្តូរពុម្ពអក្សរ។\n5. ប្រើ /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] ដើម្បីជ្រើសរើសភាសា។\n6. ប្រើ /randomstyle ដើម្បីត្រលប់ទៅរចនាប័ទ្មចៃដន្យ។\n7. មើលការណែនាំជាមួយ /tutorial។",
+    "font_success": "ផ្ទុកពុម្ពអក្សរដោយជោគជ័យ! ផ្ញើអត្ថបទដើម្បីប្រើ 📝",
+    "font_error": "កំហុសក្នុងការកំណត់ពុម្ពអក្សរ។ សូមព្យាយាមម្តងទៀត 😔",
+    "font_invalid": "សូមផ្ទុកឯកសារពុម្ពអក្សរ .ttf ដែលត្រឹមត្រូវ 📂",
+    "style_invalid": "លេខរចនាប័ទ្មមិនត្រឹមត្រូវ 😕",
+    "style_not_found": "រកមិនឃើញឈ្មោះរចនាប័ទ្ម។ ប្រើ /styles ដើម្បីមើលរចនាប័ទ្មដែលមាន 🔍",
+    "style_set": "រចនាប័ទ្មត្រូវបានកំណត់ទៅ: {style_name} 🎨",
+    "style_input_invalid": "ធាតុបញ្ចូលមិនត្រឹមត្រូវ។ ប្រើលេខឬឈ្មោះរចនាប័ទ្ម 🚫",
+    "style_reset": "រចនាប័ទ្មត្រូវបានកំណត់ឡើងវិញទៅជាចៃដន្យ 🎲",
+    "style_reset_failed": "មិនអាចកំណត់រចនាប័ទ្មឡើងវិញបានទេ 😞",
+    "language_invalid": "សូមប្រើ /language en, kh, th, vi, pt, zh, ja, hi, ar, ko, ឬ es 🌐",
+    "language_set": "ភាសាត្រូវបានកំណត់ទៅ {language} 🗣️",
+    "tutorial": "ការណែនាំ 📚:\n1. ផ្ទុកឯកសារពុម្ពអក្សរ (.ttf) ដើម្បីប្រើ។\n2. ផ្ញើអត្ថបទដើម្បីបង្កើតរូបភាព។\n3. ប្រើ /style ដើម្បីជ្រើសរើសរចនាប័ទ្ម។\n4. ប្រើ /language ដើម្បីប្តូរភាសា។\n5. ប្រើ /randomstyle ដើម្បីត្រលប់ទៅរចនាប័ទ្មចៃដន្យ។\n6. មើលបញ្ជីរចនាប័ទ្មជាមួយ /styles។",
+    "no_font": "សូមផ្ទុកពុម្ពអក្សរជាមុនសិនដោយប្រើ /setfont 📜",
+    "image_failed": "មិនអាចដំណើរការរូបភាពបានទេបន្ទាប់ពីព្យាយាមច្រើនលើក 😢",
+    "broadcast_unauthorized": "អ្នកមិនមានសិទ្ធិប្រើពាក្យបញ្ជានេះទេ 🚫",
+    "broadcast_no_message": "សូមផ្តល់សារដែលត្រូវចាក់ផ្សាយ (ឧ. /broadcast សួស្តីអស់គ្នា!) 📢",
+    "broadcast_success": "ការចាក់ផ្សាយត្រូវបានផ្ញើដោយជោគជ័យ 🎉",
+    "caption": "បង្កើតដោយ Bot {bot_username} 🤖"
+  },
+  "th": {
+    "welcome": "สวัสดี! ขอบคุณที่ใช้ Logo Bot 🌟\nเริ่มต้นใช้งาน:\n1. อัปโหลดไฟล์ฟอนต์ (.ttf) เพื่อตั้งค่า\n2. ส่งข้อความเพื่อเพิ่มลงในภาพแบบสุ่มด้วยสไตล์ที่เลือก\n3. ใช้ /style [หมายเลข] หรือ /style [ชื่อ] เพื่อเลือกสไตล์ (เช่น /style 1 หรือ /style Elegant Gold)\n   - ดูรายการสไตล์ด้วย /styles\n4. ใช้ /setfont เพื่อเปลี่ยนฟอนต์\n5. ใช้ /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] เพื่อเลือกภาษา\n6. ใช้ /randomstyle เพื่อกลับไปใช้สไตล์แบบสุ่ม\n7. ดูบทช่วยสอนด้วย /tutorial",
+    "font_success": "โหลดฟอนต์สำเร็จ! ส่งข้อความเพื่อใช้งาน 📝",
+    "font_error": "เกิดข้อผิดพลาดในการตั้งค่าฟอนต์ กรุณาลองใหม่ 😔",
+    "font_invalid": "กรุณาอัปโหลดไฟล์ฟอนต์ .ttf ที่ถูกต้อง 📂",
+    "style_invalid": "หมายเลขสไตล์ไม่ถูกต้อง 😕",
+    "style_not_found": "ไม่พบชื่อสไตล์ ใช้ /styles เพื่อดูสไตล์ที่มี 🔍",
+    "style_set": "ตั้งค่าสไตล์เป็น: {style_name} 🎨",
+    "style_input_invalid": "ข้อมูลไม่ถูกต้อง ใช้หมายเลขหรือชื่อสไตล์ 🚫",
+    "style_reset": "รีเซ็ตสไตล์เป็นแบบสุ่ม 🎲",
+    "style_reset_failed": "ไม่สามารถรีเซ็ตสไตล์ได้ 😞",
+    "language_invalid": "กรุณาใช้ /language en, kh, th, vi, pt, zh, ja, hi, ar, ko, หรือ es 🌐",
+    "language_set": "ตั้งค่าภาษาเป็น {language} 🗣️",
+    "tutorial": "บทช่วยสอน 📚:\n1. อัปโหลดไฟล์ฟอนต์ (.ttf) เพื่อใช้งาน\n2. ส่งข้อความเพื่อสร้างภาพ\n3. ใช้ /style เพื่อเลือกสไตล์\n4. ใช้ /language เพื่อเปลี่ยนภาษา\n5. ใช้ /randomstyle เพื่อกลับไปใช้สไตล์แบบสุ่ม\n6. ดูรายการสไตล์ด้วย /styles",
+    "no_font": "กรุณาอัปโหลดฟอนต์ก่อนโดยใช้ /setfont 📜",
+    "image_failed": "ไม่สามารถประมวลผลภาพได้หลังจากพยายามหลายครั้ง 😢",
+    "broadcast_unauthorized": "คุณไม่มีสิทธิ์ใช้คำสั่งนี้ 🚫",
+    "broadcast_no_message": "กรุณาระบุข้อความที่จะออกอากาศ (เช่น /broadcast สวัสดีทุกคน!) 📢",
+    "broadcast_success": "ออกอากาศสำเร็จ 🎉",
+    "caption": "สร้างโดย Bot {bot_username} 🤖"
+  },
+  "vi": {
+    "welcome": "Xin chào! Cảm ơn bạn đã sử dụng Logo Bot 🌟\nĐể bắt đầu:\n1. Tải lên tệp phông chữ (.ttf) để cài đặt.\n2. Gửi văn bản để thêm vào hình ảnh ngẫu nhiên với kiểu đã chọn.\n3. Sử dụng /style [số] hoặc /style [tên] để chọn kiểu (ví dụ: /style 1 hoặc /style Elegant Gold).\n   - Xem danh sách kiểu với /styles.\n4. Sử dụng /setfont để thay đổi phông chữ.\n5. Sử dụng /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] để chọn ngôn ngữ.\n6. Sử dụng /randomstyle để trở lại kiểu ngẫu nhiên.\n7. Xem hướng dẫn với /tutorial."
+  },
+  "pt": {
+    "welcome": "Olá! Obrigado por usar o Logo Bot 🌟\nPara começar:\n1. Faça upload de um arquivo de fonte (.ttf) para configurá-lo.\n2. Envie texto para adicionar a uma imagem aleatória com um estilo selecionado.\n3. Use /style [número] ou /style [nome] para escolher um estilo (por exemplo, /style 1 ou /style Elegant Gold).\n   - Liste os estilos com /styles.\n4. Use /setfont para alterar a fonte.\n5. Use /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] para selecionar o idioma.\n6. Use /randomstyle para voltar ao estilo aleatório.\n7. Veja o tutorial com /tutorial."
+  },
+  "zh": {
+    "welcome": "你好！感谢使用 Logo Bot 🌟\n开始使用：\n1. 上传字体文件 (.ttf) 进行设置。\n2. 发送文本以添加到随机图像，并使用所选样式。\n3. 使用 /style [编号] 或 /style [名称] 选择样式（例如，/style 1 或 /style Elegant Gold）。\n   - 使用 /styles 列出样式。\n4. 使用 /setfont 更改字体。\n5. 使用 /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] 选择语言。\n6. 使用 /randomstyle 恢复随机样式。\n7. 使用 /tutorial 查看教程。"
+  },
+  "ja": {
+    "welcome": "こんにちは！Logo Bot をご利用いただきありがとう 🌟\n始めるには：\n1. フォントファイル (.ttf) をアップロードして設定します。\n2. テキストを送信して、選択したスタイルでランダムな画像に追加します。\n3. /style [番号] または /style [名前] を使ってスタイルを選択します（例：/style 1 または /style Elegant Gold）。\n   - /styles でスタイル一覧を表示します。\n4. /setfont を使ってフォントを変更します。\n5. /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] を使って言語を選択します。\n6. /randomstyle を使ってランダムスタイルに戻します。\n7. /tutorial でチュートリアルを表示します。"
+  },
+  "hi": {
+    "welcome": "नमस्ते! Logo Bot का उपयोग करने के लिए धन्यवाद 🌟\nशुरू करने के लिए:\n1. फ़ॉन्ट फ़ाइल (.ttf) अपलोड करें और इसे सेट करें।\n2. टेक्स्ट भेजें और इसे चयनित स्टाइल के साथ रैंडम छवि में जोड़ें।\n3. स्टाइल चुनने के लिए /style [नंबर] या /style [नाम] का उपयोग करें (उदाहरण के लिए, /style 1 या /style Elegant Gold)।\n   - स्टाइल की सूची देखने के लिए /styles का उपयोग करें।\n4. फ़ॉन्ट बदलने के लिए /setfont का उपयोग करें।\n5. भाषा चुनने के लिए /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] का उपयोग करें।\n6. रैंडम स्टाइल पर वापस जाने के लिए /randomstyle का उपयोग करें।\n7. ट्यूटोरियल देखने के लिए /tutorial का उपयोग करें।"
+  },
+  "ar": {
+    "welcome": "مرحبًا! شكرًا لاستخدام Logo Bot 🌟\nللبدء:\n1. قم برفع ملف الخط (.ttf) لضبطه.\n2. أرسل نصًا لإضافته إلى صورة عشوائية بالنمط المختار.\n3. استخدم /style [رقم] أو /style [اسم] لاختيار نمط (مثل /style 1 أو /style Elegant Gold).\n   - اعرض قائمة الأنماط باستخدام /styles.\n4. استخدم /setfont لتغيير الخط.\n5. استخدم /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] لاختيار اللغة.\n6. استخدم /randomstyle للعودة إلى النمط العشوائي.\n7. شاهد البرنامج التعليمي باستخدام /tutorial."
+  },
+  "ko": {
+    "welcome": "안녕하세요! Logo Bot을 사용해 주셔서 감사합니다 🌟\n시작하려면:\n1. 글꼴 파일(.ttf)을 업로드하여 설정합니다.\n2. 텍스트를 보내 선택한 스타일로 무작위 이미지에 추가합니다.\n3. /style [번호] 또는 /style [이름]을 사용하여 스타일을 선택합니다(예: /style 1 또는 /style Elegant Gold).\n   - /styles로 스타일 목록을 확인합니다.\n4. /setfont를 사용하여 글꼴을 변경합니다.\n5. /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es]를 사용하여 언어를 선택합니다.\n6. /randomstyle을 사용하여 무작위 스타일로 돌아갑니다.\n7. /tutorial로 튜토리얼을 확인합니다."
+  },
+  "es": {
+    "welcome": "¡Hola! Gracias por usar Logo Bot 🌟\nPara comenzar:\n1. Sube un archivo de fuente (.ttf) para configurarlo.\n2. Envía texto para añadirlo a una imagen aleatoria con un estilo seleccionado.\n3. Usa /style [número] o /style [nombre] para elegir un estilo (por ejemplo, /style 1 o /style Elegant Gold).\n   - Lista los estilos con /styles.\n4. Usa /setfont para cambiar la fuente.\n5. Usa /language [en/kh/th/vi/pt/zh/ja/hi/ar/ko/es] para seleccionar el idioma.\n6. Usa /randomstyle para volver al estilo aleatorio.\n7. Ve el tutorial con /tutorial."
+  }
+}
