@@ -18,8 +18,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Bot token and admin ID
-TOKEN = "8049198861:AAFfVx4tiTTKFe7wyBnTxtphNXX9X1yaf6U"
-ADMIN_ID = 6728254471
+TOKEN = "BOT_TOKEN_HERE"
+# Your ID Telegram here
+ADMIN_ID = 5271587219
 
 # Bot username
 BOT_USERNAME = "@SYLOGODesignBot"
