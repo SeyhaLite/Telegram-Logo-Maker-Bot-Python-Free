@@ -58,7 +58,7 @@
     <li><strong>Clone the Repository:</strong>
       <pre style="background-color: #2c3e50; color: #ecf0f1; padding: 10px; border-radius: 5px;">
 git clone https://github.com/SeyhaLite/Telegram-Logo-Maker-Bot-Python-Free.git
-cd telegram-logo-bot
+cd Telegram-Logo-Maker-Bot-Python-Free
       </pre>
     </li>
     <li><strong>Install Dependencies:</strong>
@@ -72,7 +72,7 @@ pip install python-telegram-bot==20.7 Pillow requests
     </li>
     <li><strong>Directory Structure:</strong>
       <pre style="background-color: #ecf0f1; padding: 10px; border-radius: 5px;">
-telegram-logo-bot/
+Telegram-Logo-Maker-Bot-Python-Free/
 ├── main.py
 ├── install.txt
 ├── image_urls.json
