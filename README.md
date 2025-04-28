@@ -1,6 +1,7 @@
 # ⚠️ Warning 
 <pre style="background-color: #2c3e50; color: #ecf0f1; padding: 10px; border-radius: 5px;">
- Not complete code 
+ Code complete 90% 
+ Version 1.0
       </pre>
 <div style="text-align: center; padding: 20px; background-color: #f0f4f8; border-radius: 10px;">
   <h1 style="color: #2c3e50;">Telegram Logo Bot</h1>
