@@ -1,1 +1,3 @@
-pip install python-telegram-bot==20.7 Pillow requests
+install python-telegram-bot==20.7
+Pillow
+requests
