@@ -199,10 +199,15 @@ python main.py
 ## Donate Me
 
 # BTC
-bc1qrr2xlea0vtm8r6vmmkwz5tqajc4270pdqgmakn
+bc1q8vpyyj6pp9zkeq736pwk9rqkkpxwfw62ssfwcn
  
 # ETH
-0xb7072412e6b66c4d46704075eb3c7658552e50f3
+0x6cc490a053a48a4c76ed7229d9ef5a29498f140c
+
+# TRON (TRX)
+TGQKDJZxqLcmQgVhieZA8MQrB28f2Q8S7V
 
 # USDT Tether (ERC20)
-0xb7072412e6B66C4d46704075Eb3C7658552e50f3
+0x6Cc490A053a48a4C76Ed7229d9ef5A29498F140c
+
+
