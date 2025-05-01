@@ -3,6 +3,8 @@
  Code complete 90% 
  Version 1.0
       </pre>
+### ❓How to use and Tutorial 
+https://youtu.be/LbY_z47tzio?si=wprslf_4rxWmIP25
 <div style="text-align: center; padding: 20px; background-color: #f0f4f8; border-radius: 10px;">
   <h1 style="color: #2c3e50;">Telegram Logo Bot</h1>
   <p style="font-size: 18px; color: #34495e;">
